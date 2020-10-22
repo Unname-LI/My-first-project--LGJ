@@ -6,5 +6,7 @@ int main ()
 	printf("hhhhh\n");
 
 
+	printf("gggggg\n");
+
 }
 
